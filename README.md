@@ -1,1 +1,7 @@
-# ML-Assignment-1
+The assignment involved a comprehensive analysis of two distinct datasets: HR Analytics and Airbnb listings, aiming to prepare the data for subsequent machine learning modeling in Assignment 2. In this initial step, the data was obtained from POLITEMall, and a meticulous exploration of both datasets was conducted.
+
+HR Analytics Dataset Overview:
+The HR Analytics dataset encapsulated multifaceted employee information, such as department, region, education level, and more. With a focus on predicting employee promotions, the dataset was carefully analyzed to discern trends and patterns. Examination through statistical and visualization approaches uncovered insights into factors influencing promotions. The presence of missing values and outliers demanded a rigorous data cleansing process, which involved handling missing data, treating outliers, transforming categorical data into numerical formats, and assessing the necessity of scaling the data.
+
+Airbnb Listings Dataset Overview:
+In contrast, the Airbnb dataset delved into property listings' attributes, encompassing crucial details like geographical coordinates, room types, price, and availability. The primary objective was to predict rental prices based on various property features. The exploration involved identifying data trends, handling missing values and outliers, transforming categorical data, and examining correlations between features to comprehend their impact on rental prices.
